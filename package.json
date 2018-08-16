@@ -1,0 +1,16 @@
+{
+  "name": "hcl",
+  "version": "0.1.0",
+  "description": "Sample implementation of Hive Commons License",
+  "scripts": {
+    "test": "embark test"
+  },
+  "author": "Sina Mahmoodi",
+  "license": "MIT",
+  "devDependencies": {
+    "solium": "^1.1.8"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^1.12.0"
+  }
+}
